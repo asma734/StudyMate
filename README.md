@@ -1,17 +1,18 @@
-# studymate_app
 
-A new Flutter project.
+# StudyMate
 
-## Getting Started
+StudyMate is a Flutter mobile application designed to help students organize their courses, take notes, and manage their tasks.
 
-This project is a starting point for a Flutter application.
+## Main Features
 
-A few resources to get you started if this is your first Flutter project:
+- Subject management
+- Note-taking and organization
+- AI assistance to simplify and explain course notes
+- To-Do List
+- Task priorities and progress tracking
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Technologies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- SQLite (planned for local data storage)
